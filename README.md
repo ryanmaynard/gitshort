@@ -18,9 +18,24 @@ CLI to create short or vanity urls with git.io
 
 ### Usage
 
-`gitshort github_url `
+`$ gitshort github_url `
 
-`gitshort github_url -v desired_vanity_tag`
+`$ gitshort github_url -v desired_vanity_tag`
+
+### Examples
+
+
+```
+$ gitshort https://github.com/tensorflow/tensorflow
+
+https://git.io/v7llm
+
+
+$ gitshort https://github.com/junyanz/CycleGAN -v cyclegan
+
+https://git.io/cyclegan
+```
+
 
 ### Contributing
 
