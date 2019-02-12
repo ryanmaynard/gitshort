@@ -14,13 +14,13 @@ CLI to create short or vanity urls with git.io
 
 ### Setup
 
-`sudo chmod +x ./gitshort` 
+`npm install -g gitshort` 
 
 ### Usage
 
-`./gitshort github_url `
+`gitshort github_url `
 
-`./gitshort github_url -v desired_vanity_tag`
+`gitshort github_url -v desired_vanity_tag`
 
 ### Contributing
 

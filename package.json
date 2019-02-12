@@ -1,0 +1,25 @@
+{
+  "name": "gitshort",
+  "version": "1.0.0",
+  "description": "CLI to create short or vanity urls with git.io",
+  "main": "gitshort.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanmaynard/gitshort.git"
+  },
+  "keywords": [
+    "gitshort",
+    "url-shortener",
+    "git",
+    "url"
+  ],
+  "author": "Ryan Maynard <hi@ryanmaynard.co> (https://ryanmaynard.co/about)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ryanmaynard/gitshort/issues"
+  },
+  "homepage": "https://github.com/ryanmaynard/gitshort#readme"
+}
